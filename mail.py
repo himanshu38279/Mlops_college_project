@@ -4,7 +4,7 @@
 # In[4]:
 
 
-f= open("/root/code/file.txt" ,"r")
+f= open("/root/ws/file.txt" ,"r")
 a=f.read()
 import smtplib
 from email.mime.multipart import MIMEMultipart
