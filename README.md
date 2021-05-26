@@ -1,4 +1,4 @@
-# Integration_of_CNN_with_DevOps-MLOps_Training (given by Mr. Vimal Daga sir)
+# Integration_of_CNN_with_DevOps-MLOps_Training
 
 ## Work Description :
 
