@@ -8,7 +8,7 @@ RUN yum install -y wget
 RUN mkdir /root/ws/
 VOLUME /root/ws/
 
-COPY cnn_dataset /root/ws/cnn_dataset
+#COPY cnn_dataset /root/ws/cnn_dataset
 COPY Task3.py /root/ws
 
 RUN wget \
